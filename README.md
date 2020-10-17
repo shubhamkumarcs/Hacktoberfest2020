@@ -22,4 +22,5 @@ Happy Hacking,
 The Hacktoberfest Team
 
 Hacktoberfest is presented by DigitalOcean, Intel and DEV.
+Here  you can win an amazing swag tees, after successfully creating 4 PRs.
 
